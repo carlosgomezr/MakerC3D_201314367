@@ -29,11 +29,5 @@ public class NodoC3D {
     public String getVerdadera(){
         return ETQV;
     }
-    public void setFalsa(String etqf){
-        this.ETQF = etqf;
-    }
-    public void setVerdadera(String etqv){
-        this.ETQV = etqv;
-    }
         
 }
